@@ -1,16 +1,17 @@
 .welcome{
     background-image: url(../assets/backgrounds/h_img.jpg);
     background-repeat: no-repeat;
-    height: 600px;
+    height: 500px;
     background-size: cover;
     color: white;
     text-align: center;
+    padding-top: 190px;
 
 }
 #service{
     background-image: url(../assets/backgrounds/s_image.jpg);
     background-repeat: no-repeat;
-    height: 600px;
+    height: 500px;
     color: white;
     padding-bottom: 40px;
     text-align: center;
