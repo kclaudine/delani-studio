@@ -5,7 +5,7 @@
 Delani studio is a studio that helps you to design and develop attractive website
 ## Screenshot
 
-<img src="Screenshot from 2020-09-27 18-21-58.png" width="400px" height="300px">
+<img src="" width="400px" height="300px">
 
 ## Author
 
