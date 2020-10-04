@@ -50,7 +50,7 @@ No known bugs
 
  ## Licence 
 
- * MIT 
+ * IT 
 
  * Copyright (c) 2020 **Claudine Kuradusenge**
 
