@@ -1,0 +1,56 @@
+.welcome{
+    background-image: url(../assets/backgrounds/h_img.jpg);
+    background-repeat: no-repeat;
+    height: 600px;
+    background-size: cover;
+    color: white;
+    text-align: center;
+
+}
+#service{
+    background-image: url(../assets/backgrounds/s_image.jpg);
+    background-repeat: no-repeat;
+    height: 600px;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    text-align: center;
+
+}
+#portfolio {
+
+    text-align: center;
+    align-content: center;
+    position: relative;
+}
+
+#portfolio img {
+    margin: 10px 10px 30px 10px;
+    opacity: 1.0;
+}
+
+#portfolio img:hover {
+    opacity: 0.4;
+}
+
+.contact{
+    background-image: url(../assets/backgrounds/c_image.jpg);
+    background-size: cover;
+    color: white;
+}
+input {
+    width: 100%;
+    background-color: transparent;
+}
+::placeholder {
+    color: white;
+}
+textarea {
+    resize: none;
+    background-color: transparent;
+    color: white;
+}
+button {
+    background-color: transparent;
+    color: white;
+}
