@@ -9,6 +9,10 @@
     font-family: 'Exo 2', sans-serif;
 
 }
+.about{
+    font-family: 'Exo 2', sans-serif;
+ 
+}
 #service{
     background-image: url(../assets/backgrounds/s_image.jpg);
     background-repeat: no-repeat;
@@ -18,14 +22,14 @@
     text-align: center;
     position: relative;
     padding-top: 160px;
-
-
+    font-family: 'Exo 2', sans-serif;
 }
 #portfolio {
 
     text-align: center;
     align-content: center;
     position: relative;
+    font-family: 'Exo 2', sans-serif;
 }
 
 #portfolio img {
