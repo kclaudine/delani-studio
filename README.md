@@ -21,7 +21,8 @@ __Claudine-Kuradusenge__
 
  After cloning it open it in your code editor and run it in your browser
 
- 
+ **You must also have:**
+
  * Google chrome
  * Ubuntu setup
  * Active terminal
