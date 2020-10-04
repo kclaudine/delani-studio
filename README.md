@@ -2,7 +2,7 @@
 
 ## Description
 
-Delani studio is a studio that helps you to design and develop attractive website
+Delani studio is a studio that helps you to design and develop attractive website.
 ## Screenshot
 
 <img src="image/Screenshot from 2020-10-04 16-25-57.png" width="400px" height="300px">
