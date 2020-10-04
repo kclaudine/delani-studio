@@ -39,7 +39,7 @@ __Claudine-Kuradusenge__
 
 ## Known Bugs
 
-Some result are not as accurate as expected.
+No known bugs
 
  ## BDD
 
