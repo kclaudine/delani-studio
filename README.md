@@ -11,10 +11,17 @@ Delani studio is a studio that helps you to design and develop attractive websit
 
 __Claudine-Kuradusenge__ 
 
-https://github.com/kclaudine/delani-studio.git
+
 
  ## Setup instructions / Installation
+### Clone
+ Clone this repo to your local machine using:
+ https://github.com/kclaudine/delani-studio.git 
 
+
+ After cloning it open it in your code editor and run it in your browser
+
+ 
  * Google chrome
  * Ubuntu setup
  * Active terminal
