@@ -9,7 +9,9 @@ Delani studio is a studio that helps you to design and develop attractive websit
 
 ## Author
 
-[Claudine-Kuradusenge] (https://github.com/kclaudine/web-application)
+__Claudine-Kuradusenge__ 
+
+https://github.com/kclaudine/delani-studio.git
 
  ## Setup instructions / Installation
 
