@@ -2,8 +2,7 @@
 
 ## Description
 
-My project is a web application whic take a user's birthday and calculates the day of the week they were born and then depending on their gender print out their akan name.
-
+Delani studio is a studio that helps you to design and develop attractive website
 ## Screenshot
 
 <img src="Screenshot from 2020-09-27 18-21-58.png" width="400px" height="300px">
