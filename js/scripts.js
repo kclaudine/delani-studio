@@ -36,7 +36,7 @@ $("form").submit(function(event) {
         return;
     }
 
-    alert('Your message have been recevied')
+    alert('Your message has been received, THANK YOU!!!')
     event.preventDefault();
     this.reset();
 });

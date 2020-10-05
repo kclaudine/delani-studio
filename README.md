@@ -2,7 +2,8 @@
 
 ## Description
 
-Delani studio is a studio that helps you to design and develop attractive website.
+This project is a webpage for Delani studio that shows details about the services it offers, the information about the studio, a portfolio section and a form that enables users to send their messages related to the page to Delani studio. 
+
 ## Screenshot
 
 <img src="image/Screenshot from 2020-10-04 16-25-57.png" width="400px" height="300px">
