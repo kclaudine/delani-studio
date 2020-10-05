@@ -20,7 +20,7 @@ __Claudine-Kuradusenge__
  https://github.com/kclaudine/delani-studio.git 
 
 
- After cloning it open it in your code editor and run it in your browser
+ After cloning it you can open it in your code editor and run it in your browser
 
  **You must also have:**
 
@@ -42,8 +42,6 @@ __Claudine-Kuradusenge__
 
 No known bugs
 
- 
- **You were born on Tuesday and Your akan name is Abenaa**
 
  ## Contact Information
 
